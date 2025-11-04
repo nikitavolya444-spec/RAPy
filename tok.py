@@ -1,7 +1,5 @@
 
-token = "363556567adedec5e86a04fbe9a9db0f6963f3f449e585488d378ddb2ef05fe05942133a876221660c502"
-id_id = 178515268
-
-admin = 510166866
-
+token = "8453417997:AAFLQ8UbmWfG_nwi1XYizCkqP3Vx3nhbMvs"
+id_id =User ID:  8228294886
+admin =User ID:  8228294886
 #github = https://github.com/LencoDigitexer/RAPy
